@@ -5,7 +5,7 @@
 
 - 🔭 I’m interested in **Full Stack Development, Competitive Programming and FOSS**
 
-- 🌱 I’m currently learning **NextJS, GatsbyJS**
+- 🌱 I’m currently learning **Backend Development with Go**
 
 - 📫 How to reach me **gauravkab07@gmail.com**
 
